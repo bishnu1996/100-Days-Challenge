@@ -10,4 +10,4 @@ var numIdenticalPairs = function(nums) {
    return count;
 };
 
-console.log(numIdenticalPairs([1,2,3,1,1,3]));
+console.log(numIdenticalPairs([1,2,3,1,1,3,5]));
